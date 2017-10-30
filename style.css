@@ -1,0 +1,95 @@
+body
+{
+	background-color: #696969 ;
+	
+}
+#start
+{
+	width: 650px;
+	height: 650px;
+	background-position:center; 
+	margin: auto;
+	background-color: #1F1F1F;
+	color: white;
+	text-align: center;
+	margin-bottom: center;
+	margin-top: 65px;
+	transition-duration:5s;
+}
+#start:hover
+{
+	background-color: red;
+}
+#triangle1 
+{
+	width: 0;
+	height: 0;
+	border-bottom: 121px solid #FFFFFF;
+	border-left: 121px solid transparent;
+	margin: 120px auto 0;
+	margin-right: 40px;
+}
+#triangle2 {
+	width: 0;
+	height: 0;
+	border-bottom: 121px solid #FFFFFF;
+	border-right: 121px solid transparent;
+	margin: 25px auto 0;
+	margin-left: -570px;
+}
+#triangle3 {
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 121px solid #CCCCFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+#triangle4 
+{
+	width: 0;
+	height: 0;
+	border-bottom: 242px solid #696969;
+	border-left: 121px solid transparent;
+	margin: auto 0;
+	margin-left: 204px;
+}
+
+#triangle5 {
+	width: 0;
+	height: 0;
+	border-bottom: 242px solid #696969;
+	border-right: 121px solid transparent;
+	margin:  auto 0;
+	margin-left: -650px;
+}
+#square1 {
+	width: 121px;
+	height: 130px;
+	background: #696969;
+	margin-left: -650px;
+}
+#square2 {
+	width: 121px;
+	height: 130px;
+	background: #696969;
+	margin-left: 529px;
+}
+#triangle6
+{
+	width: 0;
+	height: 0;
+	border-bottom: 130px solid #696969;
+	border-right: 121px solid transparent;
+	margin-left: -408px;
+}
+#triangle7
+{
+	width: 0;
+	height: 0;
+	border-bottom: 130px solid #696969;
+	border-left: 121px solid transparent;
+	margin: auto 0;
+	margin-left: 287px;
+}
